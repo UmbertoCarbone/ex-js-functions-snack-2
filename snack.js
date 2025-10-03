@@ -85,4 +85,6 @@ StampaOgniSecondo()
  di tempo e restituisce una funzione che avvia un setInterval,
  incrementando un contatore e stampandolo. */
 
- function creaContatoreAutomatico
+ function creaContatoreAutomatico() {
+    
+ }
