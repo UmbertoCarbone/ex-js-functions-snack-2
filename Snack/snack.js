@@ -118,4 +118,4 @@ function eseguiFerma(msg, avvio, stop) {
         console.log("stoppa (snack7)")
     },stop)
 }
-eseguiFerma("messaggio ogni secondo (snack7)",1000,5000)
+eseguiFerma("messaggio ogni secondo (snack7)",2000,10000)
